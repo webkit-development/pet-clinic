@@ -1,0 +1,5 @@
+com/stradtkt/petclinic/model/Pet.class
+com/stradtkt/petclinic/model/Owner.class
+com/stradtkt/petclinic/model/Vet.class
+com/stradtkt/petclinic/model/PetType.class
+com/stradtkt/petclinic/model/Person.class
