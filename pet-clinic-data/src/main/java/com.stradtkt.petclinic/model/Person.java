@@ -1,6 +1,8 @@
-package com.stradtkt.petclinic.model;
+package src.main.java.com.stradtkt.petclinic.model;
 
-public class Person {
+import src.main.java.com.stradtkt.petclinic.model.BaseEntity;
+
+public class Person extends BaseEntity {
     private String firstName;
     private String lastName;
 

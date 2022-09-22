@@ -1,4 +1,4 @@
-package com.stradtkt.petclinic.model;
+package src.main.java.com.stradtkt.petclinic.model;
 
 public class Owner extends Person {
 }
